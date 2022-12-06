@@ -1,0 +1,8 @@
+Signal=1
+Date='9-15-2022
+Entry_time='10:30'
+Price=11650
+
+
+stop_loss=11712
+take_profit=11588

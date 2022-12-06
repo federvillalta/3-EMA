@@ -1,0 +1,14 @@
+ticker = '^IXIC'
+
+start_date = '7-9-2022'
+end_date = '15-9-2022'
+
+automated=True
+
+long_ema = 50
+mid_ema = 20 
+short_ema = 10
+
+upper_threshold=0.005
+lower_threshold=-0.005
+

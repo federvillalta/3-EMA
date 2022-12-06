@@ -1,0 +1,20 @@
+3-EMA strategy
+
+Bullish signal
+- All exponential moving average in same trend and space between them
+- 2-lag candle breaking the 9-ema, opposite of upwards trend
+- 1-lag candle breaking the 9-ema, in favor of upwards trend
+- enter position (market order)
+- stop-loss is the open of the 1-lag candle
+- take profit is the enter position price plus the difference of 
+the close and open of the 1-lag candle
+
+Bullish signal
+- All exponential moving average in same trend and space between them
+- 2-lag candle breaking the 9-ema, opposite of downwards trend
+- 1-lag candle breaking the 9-ema, in favor of downwards trend
+- enter position (market order)
+- stop-loss is the close of the 1-lag candle
+- take profit is the enter position price minus the difference of 
+the close and open of the 1-lag candle
+
